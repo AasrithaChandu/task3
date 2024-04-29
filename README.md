@@ -1,3 +1,3 @@
-# simple interest calculator web application.
+# Web Application with speech recognition functionality.
 
-## This application allows users to input the principal amount, interest rate, and time period and then calculate and display the simple interest based on these inputs.
+This is a web application with speech recognition functionality that transcribes spoken words into text and saves them to an Excel sheet.Additionally, this application have the capability to save and manage these Excel files.
